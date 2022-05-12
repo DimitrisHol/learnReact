@@ -4,7 +4,7 @@ I want to learn react.
 
 I made this repo to store code and notes. 
 
-If you stumble upon this I should have made it private. 
+If you stumble upon this and you don't like it, mind your own business. 
 
 End of Readme. 
 
