@@ -1,4 +1,13 @@
-# Learn React.js
+# Learning react. 
 
+I want to learn react. 
 
-Repository containing notes and code that I wrote while learning React.js.
+I made this repo to store code and notes. 
+
+If you stumble upon this I should have made it private. 
+
+End of Readme. 
+
+(Probably) A good resource to learn javascript and react : https://fullstackopen.com/
+
+Have a nice day. 
