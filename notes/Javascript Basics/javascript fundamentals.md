@@ -1,22 +1,19 @@
-Javascript Fundamentals
------------------------------------------------------------------
+## Javascript Fundamentals
 
+## Arrays : 
 
-Arrays : 
------------------------------------------------------------------
-arr.push() : to add to the end of the array (append)
+Used for your basic array needs. 
 
-arr.pop() : to get the final item of the array. 
+```javascript
+arr.push()    //  Append to the end of the array. 
+arr.shift()   //  Get the first element of the array
+arr.pop()     //  Get the final element of the array. 
+arr.unshift() //  Append an item to the first position of the array. 
+```
 
-arr.shift() : to get the first item of the array. 
+## Objects
 
-arr.unshift() : add item to the first position of the array.
-
-
-
-Objects : 
------------------------------------------------------------------
-
+```javascript
 var myDog = {
   "name": "Happy Coder",
   "legs": 4,
@@ -24,6 +21,7 @@ var myDog = {
   "friends": ["freeCodeCamp Campers"],
     //"bark": "woof"
 };
+```
 
 Add a new property by doing  : myDog.bark = "woof
 Delete a property by doing : delete myDog.tails
